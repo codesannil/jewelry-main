@@ -5,11 +5,11 @@
 /* Hero Section */
 .hero-section {
   position: relative;
-  min-height: 85vh;
+  min-height: 55vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 4rem 1.25rem;
+  padding: 3rem 1.25rem 2.5rem;
   overflow: hidden;
   border-bottom: 1px solid var(--border-gold);
 }
